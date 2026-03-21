@@ -9,7 +9,7 @@
 
 ## About
 
-I build full-stack web applications — clean APIs, fast frontends, and systems that scale. Self-taught, bilingual, and remote-first. I work across the full stack with a preference for TypeScript, React, and Node.js. I write code in Neovim and use Claude Code as part of my dev workflow.
+I build full-stack web applications, clean APIs, fast frontends, and systems that scale. Self-taught, bilingual, and remote-first. I work across the full stack with a preference for TypeScript, React, and Node.js. I write code in Neovim and use Claude Code as part of my dev workflow.
 
 Currently open to remote roles in full-stack development, frontend engineering, and technical customer-facing positions.
 
