@@ -42,7 +42,7 @@ Currently open to remote roles in full-stack development, frontend engineering, 
 ### [hdash](https://github.com/JesusEgonVenegas/hdash)
 Household management dashboard for shared living. Track groceries, todos, chores, calendar events, debts, and payments solo or with housemates. Built with **Next.js 16**, **React 19**, **Tailwind CSS v4**, **TypeScript**, and an **ASP.NET Core 9** backend with **ASP.NET Identity + JWT**, **EF Core**, and **SQLite**. Docker and VPS deployment ready.
 
-### [FixLog](https://github.com/JesusEgonVenegas/fixlog) — [live demo](https://fixlog-web.onrender.com/problems)
+### [FixLog](https://github.com/JesusEgonVenegas/fixlog) — [live demo](https://fixlog-web.onrender.com)
 Personal knowledge base for tracking technical problems and solutions. Built with **Next.js 16**, **React 19**, **Tailwind CSS v4**, and a **.NET 9 / C# backend** with JWT auth, fuzzy search via Fuse.js, and SQLite via Entity Framework. Deployed on Render.
 
 ### [Connect Four](https://github.com/JesusEgonVenegas/connect-four) — [live demo](https://connect-four-mocha.vercel.app/)
