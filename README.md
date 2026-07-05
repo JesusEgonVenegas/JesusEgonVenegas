@@ -4,12 +4,13 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-jesus--egon--venegas--warner-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/jesus-egon-venegas-warner)
 [![Email](https://img.shields.io/badge/Email-jesusegon97@gmail.com-EA4335?style=flat&logo=gmail)](mailto:jesusegon97@gmail.com)
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-jesusvenegas-FF5E5B?style=flat&logo=ko-fi&logoColor=white)](https://ko-fi.com/jesusvenegas)
 
 ---
 
 ## About
 
-I build full-stack web applications, clean APIs, fast frontends, and systems that scale. Self-taught, bilingual, and remote-first. I work across the full stack with a preference for TypeScript, React, and Node.js. I write code in Neovim and use Claude Code as part of my dev workflow.
+I build full-stack web applications, clean APIs, fast frontends, and systems that scale. Self-taught, bilingual, and remote-first. I work across the full stack with a preference for TypeScript, React, and Node.js. I write code in Neovim.
 
 Currently open to remote roles in full-stack development, frontend engineering, and technical customer-facing positions.
 
@@ -22,7 +23,7 @@ Currently open to remote roles in full-stack development, frontend engineering, 
 | Frontend | React · Next.js · TypeScript · JavaScript (ES6+) |
 | Backend | Node.js · Express.js · REST APIs · C# / .NET · Go |
 | Databases | MongoDB · PostgreSQL · MySQL · SQLite |
-| Tools | Git · Neovim · Postman · Claude Code |
+| Tools | Git · Neovim · Postman |
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
