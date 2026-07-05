@@ -45,6 +45,9 @@ Household management dashboard for shared living. Track groceries, todos, chores
 ### [FixLog](https://github.com/JesusEgonVenegas/fixlog) — [live demo](https://fixlog-web.onrender.com)
 Personal knowledge base for tracking technical problems and solutions. Built with **Next.js 16**, **React 19**, **Tailwind CSS v4**, and a **.NET 9 / C# backend** with JWT auth, fuzzy search via Fuse.js, and SQLite via Entity Framework. Deployed on Render.
 
+### [TCGplayer Quick Match](https://github.com/JesusEgonVenegas/tcgplayer-quick-match)
+Browser userscript that turns the TCGplayer Seller Portal's scan-identify page into a fast, keyboard-driven catalog-matching workflow for One Piece & Pokémon cards. **Zero dependencies** — ~600 lines of **vanilla JavaScript (ES2020)** taming a constantly-re-rendering **React SPA** with a debounced MutationObserver, bleed-proof DOM scoping, and synthetic React input events. **MIT** licensed.
+
 ### [Connect Four](https://github.com/JesusEgonVenegas/connect-four) — [live demo](https://connect-four-mocha.vercel.app/)
 Fully playable Connect Four game built with **React**, **TypeScript**, and **Vite**. Win detection in all directions, score tracking, animated piece drops. Deployed on Vercel.
 
